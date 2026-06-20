@@ -30,12 +30,13 @@ Zero experience needed—just grab your wrench and roll!
 
 ## Toolchain by Platform
 
-| OS | Free Pascal | Free Pascal (GUI) | C/C++ | C/C++ (GUI) | IDE / Editor |
-|:---|:---|:---|:---|:---|:---|
-| **Linux** | `fpc` + `Geany` | `fpc` + `Lazarus` | `gcc` / `g++` + `Geany` | `Qt Creator` | Lazarus + Geany + Qt Creator |
-| **Windows** | `fpc` + `Geany` | `fpc` + `Lazarus` | `gcc` / `g++` + `Geany` | `Qt Creator` | Lazarus + Geany + Qt Creator |
-| **macOS** | `fpc` + `Geany` | `fpc` + `Lazarus` | `clang` / `clang++` + `Geany` | `Qt Creator` | Lazarus + Geany + Qt Creator |
+| OS | Free Pascal | Free Pascal (GUI) | C/C++ | IDE / Editor |
+|:---|:---|:---|:---|:---|
+| **Linux** | `fpc` + `Geany` | `fpc` + `Lazarus` | `gcc` / `g++` + `Geany` | Lazarus + Geany |
+| **Windows** | `fpc` + `Geany` | `fpc` + `Lazarus` | `gcc` / `g++` + `Geany` | Lazarus + Geany |
+| **macOS** | `fpc` + `Geany` | `fpc` + `Lazarus` | `clang` / `clang++` + `Geany` | Lazarus + Geany |
 
+> *(If Geany ain't your wrench — Notepad++, Kate, or whatever custom rig you're running — you're already past the garage, greaser. Keep rolling, this guide ain't for you.)*
 ---
 
 ## Quick Start
