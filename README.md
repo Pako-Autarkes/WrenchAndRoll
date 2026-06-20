@@ -30,18 +30,14 @@ Zero experience needed—just grab your wrench and roll!
 
 ## Toolchain by Platform
 
-| OS | Free Pascal | C/C++ | IDE / Editor |
-|---|---|---|---|
-| **Linux** | `fpc` + `Geany` | `gcc`/`g++` + `Geany` | Geany |
-| **Windows** | `Lazarus` + `fpc` | `gcc`/`g++` + `Geany` | Lazarus / Geany |
-| **macOS** | `fpc` + `Geany` | `clang`/`clang++` + `Geany` | Geany |
+| OS | Free Pascal | Free Pascal (GUI) | C/C++ | C/C++ (GUI) | IDE / Editor |
+|:---|:---|:---|:---|:---|:---|
+| **Linux** | `fpc` + `Geany` | `fpc` + `Lazarus` | `gcc` / `g++` + `Geany` | `Qt Creator` | Lazarus + Geany + Qt Creator |
+| **Windows** | `fpc` + `Geany` | `fpc` + `Lazarus` | `gcc` / `g++` + `Geany` | `Qt Creator` | Lazarus + Geany + Qt Creator |
+| **macOS** | `fpc` + `Geany` | `fpc` + `Lazarus` | `clang` / `clang++` + `Geany` | `Qt Creator` | Lazarus + Geany + Qt Creator |
 
 ---
 
 ## Quick Start
 
-### Linux (Debian/Ubuntu)
-```bash
-sudo apt update
-sudo apt install fpc geany gcc g++ make
-# Clone any of my repos and build with Geany (Build → Compile)
+[WIP...]
