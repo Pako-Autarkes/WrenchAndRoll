@@ -13,10 +13,12 @@ without the confusion, without the dependency circus, without the RTFM.
 
 ---
 
-![License](https://img.shields.io/badge/LICENSE-GPLV3-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/LANGUAGE-FREE%20PASCAL%20|%20C%2FC%2B%2B-orange?style=for-the-badge)
-![Platform](https://img.shields.io/badge/PLATFORM-LINUX%20|%20WINDOWS%20|%20MACOS-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-WIP-red?style=for-the-badge)
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
+  <img alt="Language" src="https://img.shields.io/badge/Language-Free%20Pascal%20%7C%20C99-blue.svg?style=for-the-badge">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg?style=for-the-badge">
+  <img alt="Status" src="https://img.shields.io/badge/Status-WIP-orange.svg?style=for-the-badge">
+</p>
 
 ---
 
