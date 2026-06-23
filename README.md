@@ -4,7 +4,9 @@
 Grease-monkey setup for total beginners. Get FreePascal (Geany/Lazarus) &amp; C/C++ builds rolling on Linux, Windows, and macOS. No diploma required—just grab your wrench and roll!
 
 
-![WrenchAndRoll](WrenchAndRoll.jpg)
+<p align="center">
+  <img src="WrenchAndRoll.jpg" alt="WrenchAndRoll" width="420">
+</p>
 
 
 **WrenchAndRoll** — a greaser's toolkit for building my projects.  
